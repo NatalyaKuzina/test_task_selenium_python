@@ -1,0 +1,5 @@
+*.pyc
+Test_cases/_pycache_/*
+geckodriver.log
+.pytest_cache
+.idea
